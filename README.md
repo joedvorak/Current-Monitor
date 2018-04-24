@@ -2,7 +2,9 @@ Welcome to our BAE 305 Final Project
 
 Built by: Daniel Barton, Juma Baryaa, Noah Cornett, Gina DeGraves, Cory Radcliff, and Julia Wallin
 # Background
-For our initial project we were tasked with monitoring the power of the Solar House. Unfortunately due to the architects spending all the money, we did not have the budget for the parts we deemed necessary for this project. Next we were going to use transformers to monitor power from a basic circuit from Dr. Colliver but that would require too much time that we didn't have. It was then decided that our group would monitor the current output from a circuit.  
+For our initial project we were tasked with monitoring the power of the Solar House. Unfortunately due to the architects spending all the money, we did not have the budget for the parts we deemed necessary for this project which are listed below. 
+![bae 305 - parts list pic](https://user-images.githubusercontent.com/38705148/39218117-fc6560e8-47f0-11e8-8cd9-c97e4d51c323.PNG)
+Next we were going to use transformers to monitor power from a basic circuit from Dr. Colliver but that would require too much time that we didn't have. It was then decided that our group would monitor the current output from a circuit.  
 
 # Summary
 The purpose of the Peltier Live Well cooler was to allow for the control of the temperature of a live well while fishing on a lake. Without the ability to control the temperature of the live well, particularly on hot summer days, captured fish risk overheating as the temperature of the water in the live well climbs much higher than the deeper lake water they were caught from. With the Peltier Live Well cooler, the water temperature in the live well is able to be controlled without the need for heavy or expensive traditional compressors and refrigerant. This system could be useful in other applications as well, such as maintaining the temperature of water samples taken from the field.
