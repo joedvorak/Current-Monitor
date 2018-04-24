@@ -30,6 +30,7 @@ The purpose of the Peltier Live Well cooler was to allow for the control of the 
 * Box Knife
 * Wire Strippers
 * Small Flathead Screwdriver
+
 # Assembly Procedures
 The theory behind initial assembly was to get each electrical component working and communicating with the Arduino before adding the next.
 
