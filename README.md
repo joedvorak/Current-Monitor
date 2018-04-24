@@ -1,4 +1,5 @@
 Welcome to our BAE 305 Final Project
+![slide 5 happy person](https://user-images.githubusercontent.com/38705148/39217475-334cc5b8-47ee-11e8-9f05-2e21c10eb1ae.png)
 
 Built by: Daniel Barton, Juma Baryaa, Noah Cornett, Gina DeGraves, Cory Radcliff, and Julia Wallin
 # Background
