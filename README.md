@@ -47,7 +47,8 @@ The 30A, 12V power supply is connected to the project first through a switch and
 ![](https://github.com/joedvorak/BAE305Example/blob/master/Design%20File%20Images/tundra3000.jpg)
 
 ## Schematics
-Red wire= positive, Green wire= negative, Blue wire= analog/digital outputs
+
+<img width="330" alt="sensor pic" src="https://user-images.githubusercontent.com/38290976/39218278-d37a4bf2-47f1-11e8-9dc4-234df089c22a.PNG">
 
 <img width="529" alt="sensor schematic" src="https://user-images.githubusercontent.com/38290976/39218202-7e71d1fc-47f1-11e8-971e-94e82dc78ffe.PNG">
 
