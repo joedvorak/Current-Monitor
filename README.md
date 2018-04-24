@@ -103,4 +103,6 @@ Not Provided
 The Peltier Live Well Cooler allows the user to select the desired maintenance temperature of the water in the live well using 2 pushbuttons and will then automatically cycle the system on and off while giving the user a real time readout of the current live well water temperature
 # References
 The Current Transducer and spec sheet we used can be found at: https://www.digikey.com/product-detail/en/lem-usa-inc/HASS-300-S/398-1065-ND/1680531 
+The Sparkfun Breadboard can be found here: https://www.sparkfun.com/products/13032 and the Sparkfun ESP 32 Thing along with information can be found here https://learn.sparkfun.com/tutorials/esp32-thing-hookup-guide
+
 
