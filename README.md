@@ -106,4 +106,6 @@ The Peltier Live Well Cooler allows the user to select the desired maintenance t
 
 The Sparkfun Breadboard can be found here: (https://www.sparkfun.com/products/13032) and the Sparkfun ESP 32 Thing along with information can be found here (https://learn.sparkfun.com/tutorials/esp32-thing-hookup-guide)
 
+[ESP 32 Thing](https://learn.sparkfun.com/tutorials/esp32-thing-hookup-guide)
+
 
