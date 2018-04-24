@@ -97,6 +97,5 @@ Not Provided
 ## Test Results Discussion
 The Peltier Live Well Cooler allows the user to select the desired maintenance temperature of the water in the live well using 2 pushbuttons and will then automatically cycle the system on and off while giving the user a real time readout of the current live well water temperature
 # References
-The OLED was connected with help from this instructable: http://www.instructables.com/id/Monochrome-096-i2c-OLED-display-with-arduino-SSD13/
-After finding the correct i2c address for the display using the i2c scanner, an example sketch from the Adafruit SSD1306 library was uploaded to the Arduino. After verification that the OLED was working, code from the example sketch was reworked into the code needed to display our data.
-Similarly, code to run the temperature probe was borrowed from the OneWire library example sketch and modified to meet the needs of the project.
+The Current Transducer and spec sheet we used can be found at: https://www.digikey.com/product-detail/en/lem-usa-inc/HASS-300-S/398-1065-ND/1680531 
+
