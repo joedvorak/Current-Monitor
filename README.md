@@ -1,4 +1,4 @@
-Welcome to the BAE 305 Final Project for the Solar House Group
+Welcome to the BAE 305 Final Project for the Solar House Group test
 # Tundra 3000
 Built by: Students in BAE 305 in Spring 2017
 # Summary
