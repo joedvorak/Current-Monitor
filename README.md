@@ -49,6 +49,8 @@ The 30A, 12V power supply is connected to the project first through a switch and
 ## Schematics
 Red wire= positive, Green wire= negative, Blue wire= analog/digital outputs
 
+<img width="529" alt="sensor schematic" src="https://user-images.githubusercontent.com/38290976/39218202-7e71d1fc-47f1-11e8-971e-94e82dc78ffe.PNG">
+
 <img width="522" alt="sensor info" src="https://user-images.githubusercontent.com/38290976/39218227-945800ea-47f1-11e8-831d-8b7645097c1f.PNG">
 
 <img width="501" alt="esp 32 thing schematic" src="https://user-images.githubusercontent.com/38290976/39217570-a71edc6a-47ee-11e8-8f37-8b6907e3dd7e.PNG">
