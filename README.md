@@ -8,28 +8,14 @@ For our initial project we were tasked with monitoring the power of the Solar Ho
 The purpose of the Peltier Live Well cooler was to allow for the control of the temperature of a live well while fishing on a lake. Without the ability to control the temperature of the live well, particularly on hot summer days, captured fish risk overheating as the temperature of the water in the live well climbs much higher than the deeper lake water they were caught from. With the Peltier Live Well cooler, the water temperature in the live well is able to be controlled without the need for heavy or expensive traditional compressors and refrigerant. This system could be useful in other applications as well, such as maintaining the temperature of water samples taken from the field.
 # Materials
 ## Materials
-* Arduino Uno
-* 2x Peltier Chips
-* Waterproof Temperature Probe
-* DC Water Pump
-* 2x 12v Fans w/heat sinks
-* 10 Amp Relay
-* 4.7KOhm Resistor
-* OLED Screen
-* 2x Pushbuttons
-* Pushbutton Resistors
-* Wire
-* 3/8" Inside Diameter Tubing
-* Large Plastic Container
-* Super Glue
-* Thermal Paste
-## Tools and Supplies
-* 30 Amp, 12V Power Supply
-* Solder
-* Soldering Iron
-* Box Knife
-* Wire Strippers
-* Small Flathead Screwdriver
+* Sparkfun ESP 32 Thing
+* Breadboard
+* 10K Ohm Resistor
+* HASS (50-600)-S Current Transducer
+* Various Male-Male Jumper Wires
+* 9V Battery Pack
+* Sparkfun Breadboard Power Supply Stick 5V/3.3V
+* Micro-USB Cable
 
 # Assembly Procedures
 The theory behind initial assembly was to get each electrical component working and communicating with the Arduino before adding the next.
