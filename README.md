@@ -1,7 +1,6 @@
 Welcome to our BAE 305 Final Project
 
-Built by: Students in BAE 305 in Spring 2017
-
+Built by: Daniel Barton, Juma Baryaa, Noah Cornett, Gina DeGraves, Cory Radcliff, and Julia Wallin
 # Background
 For our initial project we were tasked with monitoring the power of the Solar House. Unfortunately due to the architects spending all the money, we did not have the budget for the parts we deemed necessary for this project. Next we were going to use transformers to monitor power from a basic circuit from Dr. Colliver but that would require too much time that we didn't have. It was then decided that our group would monitor the current output from a circuit.  
 
