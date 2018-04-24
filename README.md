@@ -38,7 +38,7 @@ The Temperature sensor and LED were wired to the Arduino using a temporary bread
 
 The OLED display was wired according to the datasheet, with SCL and SDA going to pins A5 and A4 respectively while 3.3V of power was fed from the Arduino.
 
-![](https://github.com/radcory15/Current-Monitor/blob/master/ESP%2032%20Thing%20Schematic.PNG)
+<img width="501" alt="esp 32 thing schematic" src="https://user-images.githubusercontent.com/38290976/39217570-a71edc6a-47ee-11e8-8f37-8b6907e3dd7e.PNG">
 
 Now that the temperature probe and LED are all communicating with the Arduino, the pushbuttons and code to allow the selection of desired temperature are added.
 
