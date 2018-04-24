@@ -57,8 +57,7 @@ The 30A, 12V power supply is connected to the project first through a switch and
 <img width="501" alt="esp 32 thing schematic" src="https://user-images.githubusercontent.com/38290976/39217570-a71edc6a-47ee-11e8-8f37-8b6907e3dd7e.PNG">
 
 
-## Engineering Drawings
-Not Provided.
+
 ## Programming Code
 See this repository for the Arduino Code.
 This code reads the temperature sensor on the OneWire interface and converts it to Fahrenheit and Celsius
