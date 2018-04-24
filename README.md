@@ -42,7 +42,7 @@ The OLED display was wired according to the datasheet, with SCL and SDA going to
 
 Now that the temperature probe and LED are all communicating with the Arduino, the pushbuttons and code to allow the selection of desired temperature are added.
 
-![](https://github.com/joedvorak/BAE305Example/blob/master/Design%20File%20Images/ButtonsToo.jpg)
+![](https://github.com/radcory15/Current-Monitor/blob/master/ESP%2032%20Thing.PNG)
 
 The last electrical component controlled by the Arduino is added, the 10A relay. The relay allows the Arduino to use the information from the temperature sensor to turn on or off the other electrical assembly, the combination of the water pump, fans, and peltier chips.
 
