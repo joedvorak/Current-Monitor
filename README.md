@@ -48,7 +48,6 @@ The 30A, 12V power supply is connected to the project first through a switch and
 
 ## Schematics
 
-<img width="330" alt="sensor pic" src="https://user-images.githubusercontent.com/38290976/39218278-d37a4bf2-47f1-11e8-9dc4-234df089c22a.PNG">
 
 <img width="529" alt="sensor schematic" src="https://user-images.githubusercontent.com/38290976/39218202-7e71d1fc-47f1-11e8-971e-94e82dc78ffe.PNG">
 
@@ -104,7 +103,7 @@ The Peltier Live Well Cooler allows the user to select the desired maintenance t
 # References
 The Current Transducer and spec sheet we used can be found [here](https://docs-emea.rs-online.com/webdocs/146d/0900766b8146d0a8.pdf)
 
-The Sparkfun Breadboard can be found [here](https://www.sparkfun.com/products/13032) and the Sparkfun ESP 32 Thing along with information can be found [here](https://learn.sparkfun.com/tutorials/esp32-thing-hookup-guide)
+The Sparkfun Breadboard can be found [here](https://www.sparkfun.com/products/13032) and the Sparkfun ESP 32 Thing along with information and spec sheets can be found [here](https://www.sparkfun.com/products/13907)
 
 
 
