@@ -20,6 +20,7 @@ The purpose of the Peltier Live Well cooler was to allow for the control of the 
 * 9V Battery Pack
 * Sparkfun Breadboard Power Supply Stick 5V/3.3V
 * Micro-USB Cable
+* Arduino Programming Language
 
 # Assembly Procedures
 The theory behind initial assembly was to get each electrical component working and communicating with the Arduino before adding the next.
