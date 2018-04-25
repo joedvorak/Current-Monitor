@@ -23,29 +23,8 @@ The purpose of our current monitoring system is to allow a user to insert any ty
 * Arduino Programming Language
 
 # Assembly Procedures
-The theory behind initial assembly was to get each electrical component working and communicating with the Arduino before adding the next.
-
-The Temperature sensor and LED were wired to the Arduino using a temporary breadboard. A 4.7KOhm resistor was added between the white data line and red power line of the waterproof temperature probe.
-
-The OLED display was wired according to the datasheet, with SCL and SDA going to pins A5 and A4 respectively while 3.3V of power was fed from the Arduino.
 
 
-
-Now that the temperature probe and LED are all communicating with the Arduino, the pushbuttons and code to allow the selection of desired temperature are added.
-
-
-
-The last electrical component controlled by the Arduino is added, the 10A relay. The relay allows the Arduino to use the information from the temperature sensor to turn on or off the other electrical assembly, the combination of the water pump, fans, and peltier chips.
-
-![](https://github.com/joedvorak/BAE305Example/blob/master/Design%20File%20Images/RelayAlso.jpg)
-
-The fan and heat sink are attached to the hot side of the Peltier chips with thermal paste and super glue. The water cooler is attached to the cold side of the Peltier chip with thermal paste and super glue. The entire assembly is then glued to the bottom of the container and ventilation holes are cut in the side of the tub. Process repeated for other water cooler assembly.
-
-![](https://github.com/joedvorak/BAE305Example/blob/master/Design%20File%20Images/peltierheatsinkassembly.jpg)
-
-The 30A, 12V power supply is connected to the project first through a switch and then on to the Arduino directly for external power, and to the Peltier/Fan/Water pump assemblies by way of the relay.
-
-![](https://github.com/joedvorak/BAE305Example/blob/master/Design%20File%20Images/tundra3000.jpg)
 
 ## Schematics
 
@@ -59,7 +38,8 @@ The 30A, 12V power supply is connected to the project first through a switch and
 
 
 ## Programming Code
-See this repository for the Arduino Code. All of our code can be found [here](https://raw.githubusercontent.com/radcory15/Current-Monitor/master/1OURPROJECT.ino).
+The complete Arduino code for our project can be found [here](https://raw.githubusercontent.com/radcory15/Current-Monitor/master/1OURPROJECT.ino).
+
 This code retireves the data that the current sensor is measuring and transmits it to a monitroing website. 
 ```/*
   WriteVoltage
