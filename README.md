@@ -59,8 +59,8 @@ The 30A, 12V power supply is connected to the project first through a switch and
 
 
 ## Programming Code
-See this repository for the Arduino Code.
-This code reads the temperature sensor on the OneWire interface and converts it to Fahrenheit and Celsius
+See this repository for the Arduino Code. All of our code can be found [here](https://raw.githubusercontent.com/radcory15/Current-Monitor/master/1OURPROJECT.ino).
+This code retireves the data that the current sensor is measuring and transmits it to a monitroing website. 
 ```/*
   WriteVoltage
   
