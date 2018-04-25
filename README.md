@@ -106,7 +106,7 @@ The Current Transducer and spec sheet we used can be found [here](https://docs-e
 
 The Sparkfun Breadboard can be found [here](https://www.sparkfun.com/products/13032) and the Sparkfun ESP 32 Thing along with information and spec sheets can be found [here](https://www.sparkfun.com/products/13907)
 
-We monitored the current through the use of a MATLAB application called [ThingSpeak](https://thingspeak.com/). 
+We monitored the current through the use of a MATLAB application called [ThingSpeak](https://thingspeak.com/). The libraries that we used in order to write the current monitoring code can be found [here](https://www.arduinolibraries.info/libraries/thing-speak).
 
 
 
