@@ -17,14 +17,23 @@ The purpose of our current monitoring system is to allow a user to insert any ty
 * 10K Ohm Resistor
 * HASS (50-600)-S Current Transducer
 * Various Male-Male Jumper Wires
-* 9V Battery Pack
+* Battery Pack
 * Sparkfun Breadboard Power Supply Stick 5V/3.3V
 * Micro-USB Cable
 * Arduino Programming Language
 
 # Assembly Procedures
 
-![img_2277](https://user-images.githubusercontent.com/38290976/39283206-3222d496-48db-11e8-98a0-c954ade20bb4.jpg)
+
+First the Sparkfun Battery Pack was connected to the breadboard and the battery pack was connected. After that the current transducer needed to be connected to the breadboard. The spec sheet was located for our specific current transducer and from information provided on that, the correct wiring was determined. The Orange wire was connected to the 5V, the red wire was connected to the ground, and the brown wire(Vout) on the breadboard needed to be connected in series with a 10K Ohm resistor and the ground. The unconnected brown wire was our Vref and did not need to be connected in the breadboard. 
+
+After the current transducer and battery pack was connected, our last step was to get the sensor to send information to the ESP 32 Thing. To connect the ESP 32 Thing to the bread board it only required two additional wires. First we had to connect our wire from ground on the 32 Thing to the ground on the breadboard. After that we had to connect a wire from PIN 36 on the 32 Thing into series with the 10k Ohm resistor and the Vout(Brown wire). The complete setup can be seen in the image below. 
+
+![img_2275](https://user-images.githubusercontent.com/38290976/39283339-c0c44ac2-48db-11e8-8886-49876935816c.jpg)
+
+After the circuit was setup we needed the ESP 32 Thing to trasmit data onto an online monitoring service. This was accomplished by trasmiting data to a website called ThingSpeak. The live monitoring website we created can be found 
+
+
 
 
 
