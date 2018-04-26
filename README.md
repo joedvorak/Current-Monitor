@@ -36,11 +36,11 @@ After the circuit was setup we needed the ESP 32 Thing to trasmit data onto an o
 
 ## Schematics
 
-
+The two images below represent shcematics of the HASS 300-S current transducer used in this project. These schematics where used to detmerine how to wire our sensor.
 <img width="529" alt="sensor schematic" src="https://user-images.githubusercontent.com/38290976/39218202-7e71d1fc-47f1-11e8-971e-94e82dc78ffe.PNG">
 
 <img width="522" alt="sensor info" src="https://user-images.githubusercontent.com/38290976/39218227-945800ea-47f1-11e8-831d-8b7645097c1f.PNG">
-
+The image below shows in detail the ESP 32 Thing. From this we determined which PIN to wire the sensor up to. 
 <img width="501" alt="esp 32 thing schematic" src="https://user-images.githubusercontent.com/38290976/39217570-a71edc6a-47ee-11e8-8f37-8b6907e3dd7e.PNG">
 
 
@@ -80,9 +80,9 @@ No text provided
 
 # Discussion
 ## Design Decisions
-Not Provided
+
 ## Test Results Discussion
-The Peltier Live Well Cooler allows the user to select the desired maintenance temperature of the water in the live well using 2 pushbuttons and will then automatically cycle the system on and off while giving the user a real time readout of the current live well water temperature
+
 # References
 The Current Transducer and spec sheet we used can be found [here](https://docs-emea.rs-online.com/webdocs/146d/0900766b8146d0a8.pdf)
 
