@@ -31,11 +31,7 @@ After the current transducer and battery pack was connected, our last step was t
 
 ![img_2275](https://user-images.githubusercontent.com/38290976/39283339-c0c44ac2-48db-11e8-8886-49876935816c.jpg)
 
-After the circuit was setup we needed the ESP 32 Thing to trasmit data onto an online monitoring service. This was accomplished by trasmiting data to a website called ThingSpeak. The live monitoring website we created can be found 
-
-
-
-
+After the circuit was setup we needed the ESP 32 Thing to trasmit data onto an online monitoring service. This was accomplished by trasmiting data to a website called ThingSpeak. The live monitoring website we created can be found [here](https://thingspeak.com/channels/481699).
 
 
 ## Schematics
