@@ -24,6 +24,9 @@ The purpose of our current monitoring system is to allow a user to insert any ty
 
 # Assembly Procedures
 
+![img_2277](https://user-images.githubusercontent.com/38290976/39283206-3222d496-48db-11e8-98a0-c954ade20bb4.jpg)
+
+
 
 
 ## Schematics
