@@ -77,7 +77,9 @@ To test the current and voltage monitor a coiled wire connected to a motor was w
 # Test Results
 The results can be seen below. The average current was measured to be rooughly 20 A and the voltage was roughly 2.5 V.
 
-![this](https://user-images.githubusercontent.com/38290976/39387020-52947cb4-4a45-11e8-9922-74dc64cf4004.JPG)
+![bae305 voltage graph 2](https://user-images.githubusercontent.com/38290976/39389050-dacef778-4a52-11e8-886f-6f612e11888b.PNG)
+
+
 
 
 # Discussion
