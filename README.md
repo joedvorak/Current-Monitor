@@ -49,7 +49,7 @@ The image below shows in detail the ESP 32 Thing. From this we determined which 
 ## Programming Code
 The complete Arduino code for our project can be found [here](https://raw.githubusercontent.com/radcory15/Current-Monitor/master/1OURPROJECT.ino).
 
-The code section below reads the input coming from the sensor and caluclautes the current based on equations within the spec sheet of our specific transducer. 
+The code section below reads the input coming from the sensor and calculates the current based on equations within the spec sheet of our specific transducer. 
 ```
 
 void loop() {
@@ -71,11 +71,12 @@ void loop() {
 
 ```
 # Test Equipment
-Not Provided.
+Inductor
+Motor
 # Test Procedures
-Not Provided.
+To test the current and voltage monitor an inductor coil connected to a motor was wrapped through the current sensor five times.
 # Test Results
-No text provided
+The results can be seen below. 
 
 ![](https://github.com/joedvorak/BAE305Example/blob/master/Design%20File%20Images/Graph.png)
 
