@@ -71,9 +71,9 @@ void loop() {
 
 ```
 # Test Equipment
-Inductor and Motor
+Coiled Wire and Motor
 # Test Procedures
-To test the current and voltage monitor an inductor coil connected to a motor was wrapped through the current sensor five times.
+To test the current and voltage monitor a coiled wire connected to a motor was wrapped through the current sensor five times.
 # Test Results
 The results can be seen below. The average current was measured to be rooughly 20 A and the voltage was roughly 2.5 V.
 
