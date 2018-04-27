@@ -79,6 +79,8 @@ The results can be seen below. The average current was measured to be rooughly 2
 
 ![bae305 voltage graph 2](https://user-images.githubusercontent.com/38290976/39389050-dacef778-4a52-11e8-886f-6f612e11888b.PNG)
 
+![bae305 current graph](https://user-images.githubusercontent.com/38290976/39389061-ff0f9dea-4a52-11e8-9faa-497ca2281ac7.PNG)
+
 
 
 
