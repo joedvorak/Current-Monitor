@@ -10,6 +10,7 @@ Since the Solar House monitoring project was not going to work we had to switch 
 The purpose of our current monitoring system is to allow a user to insert any type of wire through the sensor and in return get a live current reading. This sytem is useful when wanting to measure current from DC circuit elements. Our simple design only consists of three parts. First, a current transducer that was used to measure current running through differnet elements. Next a Sparkfun Breadboard Power Supply Stick was used to power the sensor. Lastly, a ESP 32 Thing. This was programmed through Arduino to transform the current data onto a monitoring website. 
 
 # Video
+[Click here to check out our video!](https://www.youtube.com/watch?v=R2FDliE7o00&feature=youtu.be)
 
 # Materials
 * Sparkfun ESP 32 Thing
