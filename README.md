@@ -26,7 +26,7 @@ The purpose of our current monitoring system is to allow a user to insert any ty
 # Assembly Procedures
 
 
-First the Sparkfun Battery Pack was connected to the breadboard and the battery pack was connected. After that the current transducer needed to be connected to the breadboard. The spec sheet was located for our specific current transducer and from information provided on that, the correct wiring was determined. The Orange wire was connected to the 5V, the red wire was connected to the ground, and the brown wire(Vout) on the breadboard needed to be connected in series with a 10K Ohm resistor and the ground. The unconnected brown wire was our Vref and did not need to be connected in the breadboard. 
+First the Sparkfun Battery Pack was connected to the breadboard and the battery pack was connected. After that the current transducer needed to be connected to the breadboard. The spec sheet was located for our specific current transducer and from information provided on that, the correct wiring was determined. The Orange wire was connected to the 5V, the red wire was connected to the ground, and the brown wire(Vout) on the breadboard needed to be connected in series with a 10K Ohm resistor and the ground. The unconnected brown wire was our Vref. The Vref allows you to put your reference voltage anywhere and gives you that voltage. Normally Vref will be 2.5V. 
 
 After the current transducer and battery pack was connected, our last step was to get the sensor to send information to the ESP 32 Thing. To connect the ESP 32 Thing to the bread board it only required two additional wires. First we had to connect our wire from ground on the 32 Thing to the ground on the breadboard. After that we had to connect a wire from PIN 36 on the 32 Thing into series with the 10k Ohm resistor and the Vout(Brown wire). The complete setup can be seen in the image below. 
 
@@ -47,7 +47,7 @@ The image below shows in detail the ESP 32 Thing. From this we determined which 
 
 
 ## Programming Code
-The complete Arduino code for our project can be found [here](https://raw.githubusercontent.com/radcory15/Current-Monitor/master/1OURPROJECT.ino).
+The complete Arduino code for our project can be found [here](https://raw.githubusercontent.com/radcory15/Current-Monitor/master/2OURPROJECT.ino)
 
 The code section below reads the input coming from the sensor and calculates the current based on equations within the spec sheet of our specific transducer. 
 ```
