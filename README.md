@@ -80,7 +80,6 @@ The results can be seen below.
 
 ![this](https://user-images.githubusercontent.com/38290976/39387020-52947cb4-4a45-11e8-9922-74dc64cf4004.JPG)
 
-![](https://github.com/joedvorak/BAE305Example/blob/master/Design%20File%20Images/Graph.png)
 
 # Discussion
 ## Design Decisions
