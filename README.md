@@ -71,21 +71,20 @@ void loop() {
 
 ```
 # Test Equipment
-Inductor
-Motor
+Inductor and Motor
 # Test Procedures
 To test the current and voltage monitor an inductor coil connected to a motor was wrapped through the current sensor five times.
 # Test Results
-The results can be seen below. 
+The results can be seen below. The average current was measured to be rooughly 20 A and the voltage was roughly 2.5 V.
 
 ![this](https://user-images.githubusercontent.com/38290976/39387020-52947cb4-4a45-11e8-9922-74dc64cf4004.JPG)
 
 
 # Discussion
 ## Design Decisions
-
+The circuit was designed very simply so that the current could be monitored from the sensor. Our wiring followed the schematics of the design file of the sensor. For the code, we made sure to be able to read both current and voltage so we could adhere to our project backlog. 
 ## Test Results Discussion
-
+The test went to plan and everything worked. Both the current and voltage measured were the expected values. 
 # References
 The Current Transducer and spec sheet we used can be found [here](https://docs-emea.rs-online.com/webdocs/146d/0900766b8146d0a8.pdf)
 
