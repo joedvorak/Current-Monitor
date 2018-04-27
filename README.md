@@ -78,6 +78,8 @@ To test the current and voltage monitor an inductor coil connected to a motor wa
 # Test Results
 The results can be seen below. 
 
+![this](https://user-images.githubusercontent.com/38290976/39387020-52947cb4-4a45-11e8-9922-74dc64cf4004.JPG)
+
 ![](https://github.com/joedvorak/BAE305Example/blob/master/Design%20File%20Images/Graph.png)
 
 # Discussion
